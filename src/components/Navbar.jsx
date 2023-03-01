@@ -2,8 +2,8 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="w-full fixed ">
-      <div className="px-16 navbar bg-base-100 shadow-2xl z-100">
+    <div className="w-full fixed">
+      <div className="px-16 navbar bg-white text-black shadow-2xl z-100">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -11,7 +11,7 @@ const Navbar = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" />
               </svg>
             </label>
-            <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
+            <ul tabIndex={0} className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-white rounded-box w-52">
               <li>
                 <a>Beranda</a>
               </li>
@@ -51,7 +51,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end ">
-          <a className="btn rounded w-32 capitalize bg-sky-300 border-none ">Daftar</a>
+          <a className="btn rounded w-32 capitalize bg-sky-300 border-none text-white">Daftar</a>
         </div>
       </div>
     </div>
