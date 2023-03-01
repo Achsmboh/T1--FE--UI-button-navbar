@@ -4,13 +4,6 @@
 
 Slicing Button Navbar
 
-Beranda
-Tentang
-Harga
-Blog
-Kontak
-Button Daftar
-
 ## Live Demo
 
 Here is a working live demo : https://tugas-satu-navbar.netlify.app/
