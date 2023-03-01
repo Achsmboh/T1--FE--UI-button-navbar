@@ -13,7 +13,7 @@ Button Daftar
 
 ## Live Demo
 
-Here is a working live demo : https://lambent-cocada-7711be.netlify.app/
+Here is a working live demo : https://tugas-satu-navbar.netlify.app/
 
 ## Language and Tools
 
@@ -29,5 +29,5 @@ Here is a working live demo : https://lambent-cocada-7711be.netlify.app/
     <a href="https://code.visualstudio.com/">
     <img src="https://drive.google.com/uc?export=view&id=1z9m4T_AYh_1O2qSCWdNn7-TmplDBgink" title="Visual Studio" alt="Visual Studio" width="40"/></a>&nbsp;
     <a href="https://netlify.com/">
-    <img src="https:https://drive.google.com/file/d/1DYBRLoPExcMlQTHpbdX5AHGI55aUGgIS/view?usp=share_link" title="netlify" alt="netlify" width="40"/></a>&nbsp;
+    <img src="https:drive.google.com/file/d/1DYBRLoPExcMlQTHpbdX5AHGI55aUGgIS/view?usp=share_link" title="netlify" alt="netlify" width="40"/></a>&nbsp;
 </div>
