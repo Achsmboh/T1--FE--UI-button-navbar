@@ -3,6 +3,12 @@
 ## About Project
 
 Slicing Button Navbar
+ - Beranda
+ - Tentang
+ - Harga
+ - Blog
+ - Kontak
+Button Daftar
 
 ## Live Demo
 
